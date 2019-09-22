@@ -1,0 +1,8 @@
+{
+    "columns": ["id", "sub_item_name", "item_id"],
+    "values": [
+        [1, "subA1", 1],
+        [2, "subA2", 1],
+        [3, "subB1", 2]
+    ]
+}
