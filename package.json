@@ -1,5 +1,5 @@
 {
-  "name": "sql-fixtures",
+  "name": "@nickhyland/sql-fixtures",
   "version": "0.1.0",
   "description": "Common module to seed database for testing",
   "main": "index.js",
